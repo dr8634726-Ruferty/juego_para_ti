@@ -1,2 +1,1 @@
-# juego_para_ti
-es para mi niña
+# juego_para_machetasos
